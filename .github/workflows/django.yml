@@ -1,3 +1,4 @@
+
 name: Django CI
 
 on:
@@ -28,6 +29,7 @@ jobs:
         pip install -r requirements.txt
         pip install edc_appointment
         pip install edc_timepoint
+        pip install edc_identifier
     - name: Run Flake8 and Tests
       run: |
         flake8 edc_export
