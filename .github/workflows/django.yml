@@ -27,13 +27,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8
         pip install -r requirements.txt
-        pip install edc_appointment
-        pip install edc_timepoint
-        pip install edc_identifier
-        pip install edc_device
-        pip install edc_visit_schedule
-        pip install edc_facility
-        pip install edc_sites
+        
     - name: Run Flake8 and Tests
       run: |
         flake8 edc_export
