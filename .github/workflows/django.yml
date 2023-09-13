@@ -33,6 +33,7 @@ jobs:
         pip install edc_device
         pip install edc_visit_schedule
         pip install edc_facility
+        pip install edc_sites
     - name: Run Flake8 and Tests
       run: |
         flake8 edc_export
