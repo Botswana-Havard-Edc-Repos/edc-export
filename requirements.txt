@@ -1,16 +1,14 @@
 Django
 git+https://github.com/botswana-harvard/django-crypto-fields.git@f975c27f7ea69ca274976a3868c34f2d8983d550
-django-revision
+git+https://github.com/botswana-harvard/django-revision.git@413b56162a0e73689d94c452b34b859add4e5a08
 django-simple-history
 git+https://github.com/botswana-harvard/edc-base.git@f7d861d6e1cf7a66c39e219e3518cdecf41d8b7e
 git+https://github.com/botswana-harvard/edc-appointment.git@e4bd76d800a96fca8fccf81c8006c5274a2094dd
-edc_timepoint
-edc_identifier
+git+https://github.com/botswana-harvard/edc-timepoint.git@b17a85331ed318b98dd3145ece0a7fb0c0df1353
+git+https://github.com/botswana-harvard/edc-identifier.git@b3430602e2d58337762a33c4963498ebd75a61bc
 git+https://github.com/botswana-harvard/edc-device.git@88dc4122188b669902e8a8e575fb9f5084dba912
-edc_visit_schedule
-edc_facility
-edc_sites
-edc_protocol
-edc_utils
-edc_visit_tracking
-edc_constants
+edc-visit-schedule @ git+https://github.com/botswana-harvard/edc-visit-schedule.git@97d7817dc7dc1f054a7726488bfe1b2a751161e9
+git+https://github.com/botswana-harvard/edc-facility.git@a7d04e94d8b58f5d4af6007b7d44199f147d1b70
+git+https://github.com/botswana-harvard/edc-protocol.git@6c3f939982c61e5d9d5b10f6a90da4dfe1001653
+git+https://github.com/botswana-harvard/edc-visit-tracking.git@c70d9bcf4200f5bc69f5fac5559d940aa256c278
+git+https://github.com/botswana-harvard/edc-constants.git@7b9372b1edc5f68d938b831d100679e62a5748c3
