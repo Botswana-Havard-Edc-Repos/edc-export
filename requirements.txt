@@ -1,4 +1,5 @@
 Django
+django-q
 git+https://github.com/botswana-harvard/django-crypto-fields.git@f975c27f7ea69ca274976a3868c34f2d8983d550
 git+https://github.com/botswana-harvard/django-revision.git@413b56162a0e73689d94c452b34b859add4e5a08
 django-simple-history
