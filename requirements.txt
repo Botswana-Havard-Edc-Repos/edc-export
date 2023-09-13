@@ -2,7 +2,7 @@ Django
 git+https://github.com/botswana-harvard/django-crypto-fields.git@f975c27f7ea69ca274976a3868c34f2d8983d550
 django-revision
 django-simple-history
-edc-base
+git+https://github.com/botswana-harvard/edc-base.git@f7d861d6e1cf7a66c39e219e3518cdecf41d8b7e
 edc_appointment
 edc_timepoint
 edc_identifier
