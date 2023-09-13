@@ -27,6 +27,7 @@ jobs:
         pip install flake8
         pip install -r requirements.txt
         pip install edc_appointment
+        pip install edc_timepoint
     - name: Run Flake8 and Tests
       run: |
         flake8 edc_export
