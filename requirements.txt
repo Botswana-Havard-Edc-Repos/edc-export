@@ -14,3 +14,4 @@ edc_model
 edc_protocol
 edc_utils
 edc_visit_tracking
+edc_constants
