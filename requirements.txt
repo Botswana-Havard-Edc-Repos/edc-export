@@ -16,6 +16,7 @@ git+https://github.com/botswana-harvard/edc-calendar.git@612d892114d769db17b5e03
 git+https://github.com/botswana-harvard/edc-search.git@5ec22f14b3db2b8fcf328b94c3a0ca8845a8a78c
 git+https://github.com/botswana-harvard/edc-model-admin.git@59406f3602ad31c455079525a669b76a909542ee
 git+https://github.com/botswana-harvard/edc-form-validators.git@e812688a1ca1b86867e37fedcd285be18def5ea7
+git+https://github.com/botswana-harvard/edc-metadata.git@5feba9c8ffc44f81dafe52e2131d28e723d768e2
 edc_sites
 edc_pdutils
 edc_utils
