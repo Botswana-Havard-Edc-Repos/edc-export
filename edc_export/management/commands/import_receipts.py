@@ -69,7 +69,7 @@ class Command(BaseCommand):
         else:
             try:
                 os.remove(self.error_filename)
-            except:
+            except Exception:
                 pass
             print('Success')
 
