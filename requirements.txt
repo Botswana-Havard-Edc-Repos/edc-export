@@ -18,3 +18,4 @@ edc_sites
 edc_pdutils
 edc_utils
 edc_model
+django_audit_fields
