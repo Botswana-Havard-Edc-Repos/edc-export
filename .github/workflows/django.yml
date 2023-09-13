@@ -28,7 +28,7 @@ jobs:
         pip install flake8
         pip install backports.zoneinfo
         pip install -r requirements.txt
-        pip uninstall pycrypto
+        pip uninstall pycrypto -y
         pip install pycryptodome==3.18.0
         
     - name: Run Flake8 and Tests
