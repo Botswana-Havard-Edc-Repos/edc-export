@@ -3,14 +3,13 @@ git+https://github.com/botswana-harvard/django-crypto-fields.git@f975c27f7ea69ca
 django-revision
 django-simple-history
 git+https://github.com/botswana-harvard/edc-base.git@f7d861d6e1cf7a66c39e219e3518cdecf41d8b7e
-edc_appointment
+git+https://github.com/botswana-harvard/edc-appointment.git@e4bd76d800a96fca8fccf81c8006c5274a2094dd
 edc_timepoint
 edc_identifier
 git+https://github.com/botswana-harvard/edc-device.git@88dc4122188b669902e8a8e575fb9f5084dba912
 edc_visit_schedule
 edc_facility
 edc_sites
-edc_model
 edc_protocol
 edc_utils
 edc_visit_tracking
