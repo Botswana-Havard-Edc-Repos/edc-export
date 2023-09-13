@@ -15,3 +15,4 @@ git+https://github.com/botswana-harvard/edc-constants.git@7b9372b1edc5f68d938b83
 git+https://github.com/botswana-harvard/edc-calendar.git@612d892114d769db17b5e030def5d44e11221edc
 git+https://github.com/botswana-harvard/edc-search.git@5ec22f14b3db2b8fcf328b94c3a0ca8845a8a78c
 edc_sites
+edc_pdutils
