@@ -11,3 +11,4 @@ edc_visit_schedule
 edc_facility
 edc_sites
 edc_model
+edc_protocol
