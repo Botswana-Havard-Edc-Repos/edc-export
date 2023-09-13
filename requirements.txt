@@ -12,3 +12,4 @@ git+https://github.com/botswana-harvard/edc-facility.git@a7d04e94d8b58f5d4af6007
 git+https://github.com/botswana-harvard/edc-protocol.git@6c3f939982c61e5d9d5b10f6a90da4dfe1001653
 git+https://github.com/botswana-harvard/edc-visit-tracking.git@c70d9bcf4200f5bc69f5fac5559d940aa256c278
 git+https://github.com/botswana-harvard/edc-constants.git@7b9372b1edc5f68d938b831d100679e62a5748c3
+edc_sites
