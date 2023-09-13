@@ -30,6 +30,7 @@ jobs:
         pip install edc_appointment
         pip install edc_timepoint
         pip install edc_identifier
+        pip install edc_device
     - name: Run Flake8 and Tests
       run: |
         flake8 edc_export
