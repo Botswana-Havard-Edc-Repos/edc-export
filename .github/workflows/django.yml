@@ -23,8 +23,10 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install Flake 8
+    - name: Install Flake 8 and requirements
       run: |
+        sudo apt-get update
+        sudo apt-get install -y ${{ matrix.apt-packages }}
         python -m pip install --upgrade pip
         pip install flake8
         pip install backports.zoneinfo
