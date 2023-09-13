@@ -3,3 +3,11 @@ django-crypto-fields
 django-revision
 django-simple-history
 edc-base
+edc_appointment
+edc_timepoint
+edc_identifier
+edc_device
+edc_visit_schedule
+edc_facility
+edc_sites
+edc_model
