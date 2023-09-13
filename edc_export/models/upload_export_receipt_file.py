@@ -55,7 +55,7 @@ class UploadExportReceiptFile(BaseUuidModel):
         """
         self.export_receipt_file.open()
         reader = csv.reader(self.export_receipt_file)
-        re_pk = re.compile('[\w]{8}-[\w]{4}-[\w]{4}-[\w]{4}-[\w]{12}')
+        re_pk = re.compile('[\\w]{8}-[\\w]{4}-[\\w]{4}-[\\w]{4}-[\\w]{12}')
         error_list = []
         for row in reader:
             self.total += 1
