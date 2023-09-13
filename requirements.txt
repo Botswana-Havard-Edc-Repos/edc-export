@@ -20,6 +20,7 @@ git+https://github.com/botswana-harvard/edc-metadata.git@5feba9c8ffc44f81dafe52e
 git+https://github.com/botswana-harvard/edc-reference.git@4ce7d9a04b0c816ba0fded3e55985d5e9813c8db
 git+https://github.com/botswana-harvard/edc-lab.git@aaf2f374ec4bd77b70dbb3e2dab86e1790f2ccc4
 git+https://github.com/botswana-harvard/edc-label.git@adabbc6948d489ed2a9fcd4ba78c21e18d81d6a2
+git+https://github.com/botswana-harvard/edc-sms.git@43f4cd5f97ab4b8c3a432506561633e131c9e68c
 edc_sites
 edc_pdutils
 edc_utils
