@@ -29,3 +29,4 @@ jobs:
     - name: Run Flake8
       run: |
         flake8 edc_export
+        python manage.py test
