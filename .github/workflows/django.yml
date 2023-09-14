@@ -29,7 +29,6 @@ jobs:
         sudo apt-get install -y ${{ matrix.apt-packages }}
         python -m pip install --upgrade pip
         pip install flake8
-        pip install backports.zoneinfo
         pip install -r requirements.txt
         pip uninstall pycrypto -y
         pip install pycryptodome==3.18.0
