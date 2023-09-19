@@ -20,7 +20,6 @@ edc-protocol @ git+https://github.com/botswana-harvard/edc-protocol.git@6c3f9399
 edc-reference @ git+https://github.com/botswana-harvard/edc-reference.git@4ce7d9a04b0c816ba0fded3e55985d5e9813c8db
 edc-registration
 edc-search @ git+https://github.com/botswana-harvard/edc-search.git@5ec22f14b3db2b8fcf328b94c3a0ca8845a8a78c
-edc-sites
 edc-sms @ git+https://github.com/botswana-harvard/edc-sms.git@43f4cd5f97ab4b8c3a432506561633e131c9e68c
 edc-timepoint @ git+https://github.com/botswana-harvard/edc-timepoint.git@b17a85331ed318b98dd3145ece0a7fb0c0df1353
 edc-visit-schedule @ git+https://github.com/botswana-harvard/edc-visit-schedule.git@97d7817dc7dc1f054a7726488bfe1b2a751161e9
