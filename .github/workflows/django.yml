@@ -37,3 +37,4 @@ jobs:
       run: |
         flake8 edc_export
         python manage.py check
+         python manage.py test
